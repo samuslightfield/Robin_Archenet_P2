@@ -1,7 +1,10 @@
 img{
 
     
-    float: left;
+ 
     width:200px; height:300px;
-    box-align: center;
+    float: left;
+    padding: 5px;
+   
+    
 }
