@@ -1,7 +1,14 @@
 .style1{
-    color:red
+    color:red;
+    border:black 5px solid;
+    width: 300px;
+    
 }
 
 .style2{
-    color:blue
+    color:blue;
+    border:black 5px solid;
+
+
+    
 }
