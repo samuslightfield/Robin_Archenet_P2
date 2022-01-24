@@ -1,14 +1,7 @@
-.style1{
-    color:red;
-    border:black 5px solid;
-    width: 300px;
-    
-}
-
-.style2{
-    color:blue;
-    border:black 5px solid;
-
+img{
 
     
+    float: left;
+    width:200px; height:300px;
+    box-align: center;
 }
