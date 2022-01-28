@@ -3,9 +3,26 @@
 
     
 
-.h5{
+footer{
 
     box-sizing: border-box;
     height: 400px;
-    width: 600px;
+    width: 1500px;
+    border: 5px solid black;
 }
+
+
+
+
+
+
+.mega1{
+
+    float: left;
+}
+
+
+
+
+    
+
