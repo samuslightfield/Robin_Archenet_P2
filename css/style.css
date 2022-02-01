@@ -19,8 +19,14 @@ footer{
 .mega1{
 
     float: left;
+    
 }
 
+.image-hebergement {
+
+    height: 200px;  
+    width: 500; 
+ }
 
 
 
