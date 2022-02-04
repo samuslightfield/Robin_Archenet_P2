@@ -1,20 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Noto+Sans+JP:wght@100;300;500&family=Roboto+Mono:ital,wght@0,100;0,400;1,100&family=Ubuntu:ital,wght@0,300;1,700&display=swap');
    
-*{
+html{
 
     margin: 0;
     padding: 0;
+    background-color: grey;
+   
+    
 }
     
 
 
-footer{
-
-    box-sizing: border-box;
-    height: 400px;
-    width: 1500px;
-    border: 5px solid black;
-}
 
 
 .modifh{
@@ -27,14 +23,91 @@ footer{
 .border1
 
 {
-
- border-width:1px;
- border-style:dotted;
- border-color:black;
+    display: wrap;
+    flex-direction: row ;
+    width: 200px;
+    height: 50px;
+    border: 1px solid black;
+    align-items: right; 
  
 }
 
 
+
+
+
+.footer1{
+    display: flex;
+    flex-direction: row;
+    width:600px;
+    height: 350px;
+    flex-wrap: wrap;
+    border: solid 5px black;
+   
+}
+
+
+
+.heberg{
+
+    display: flex   ;
+    flex-direction: row ;
+    width: 1800px;
+    height: 300px;
+    border: 1px solid black;
+    align-items: center; 
+    position: right;
+    margin :50px;
+}
+
+.populaires{
+    display: flex;
+    flex-direction: row ;
+    width: 1800px;
+    height: 300px;
+    border: 1px solid black;
+    align-items: center; 
+    position: right;
+    margin: 50px;
+
+}
+
+
+.Activité{
+
+    display: flex;
+    flex-direction: row ;
+    width: 1800px;
+    height: 300px;
+    border: 1px solid black;
+    align-items: center; 
+    position: right;
+    margin: 50px;
+
+    
+}
+
+.Filtres{
+
+    display: flex;
+    flex-direction: row ;
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+    align-items: center; 
+    position: right;
+    margin: 20px;
+
+}
+
+.p1{
+    text-align: left;
+}
+
+.p2{
+
+    text-align: top center;
+}
 
 
 
