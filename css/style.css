@@ -37,12 +37,13 @@ html{
 
 
 .footer1{
-    display: flex;
+    display: wrap;
     flex-direction: row;
     width:600px;
     height: 350px;
     flex-wrap: wrap;
     border: solid 5px black;
+    text-align: left;
    
 }
 
@@ -101,7 +102,7 @@ html{
 }
 
 .p1{
-    text-align: left;
+    flex: 1 1 auto;
 }
 
 .p2{
