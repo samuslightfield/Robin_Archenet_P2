@@ -114,6 +114,18 @@ html{
     text-align: top center;
 }
 
+.card {
+    width: 400px; /*1*/
+    margin: 0px auto; /*2*/
+    background-color: white; /*3*/
+    box-shadow: 0px 5px 20px #999; /*4*/
+  }
+  
+
+
+  
+  
+
 
 
 
